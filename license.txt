@@ -5,3 +5,5 @@
 现在做一个修改commit到dev分支.这里修复了一个bug.
 
 Creating a new branch is quick AND simple.
+
+Stash the branch
