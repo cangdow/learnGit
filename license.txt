@@ -2,6 +2,6 @@
 
 我现在是通过终端来push 过来的哦 $ git push origin master
 
-现在做一个修改commit到dev分支
+现在做一个修改commit到dev分支.这里修复了一个bug.
 
 Creating a new branch is quick AND simple.
